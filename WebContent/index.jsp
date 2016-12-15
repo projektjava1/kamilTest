@@ -7,13 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p> siema </p>
-<p> siema3333 </p>
-<p> siema3333444445555 </p>
-<p>sadassa<p>
-<p> siema33334444455558888 </p>
-<p> Przycisk <p>
 
-
+<input type="text" value="login"><br>
+<br>
+<input type="password" value="password">
+<br>
+<br>
+<input style="margin-left: 120px" type="submit" value="Wyslij">
 </body>
 </html>
